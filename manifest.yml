@@ -3,4 +3,4 @@ applications:
 - name:    nodevxm
   host:    nodevxm
   memory:  64M
-  instances: 1
+  instances: 4
